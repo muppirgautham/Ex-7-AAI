@@ -1,4 +1,7 @@
-## EX. NO:7
+### NAME: M Gautham
+### REGISTER NO: 212221230027
+### EX. NO: 7
+### DATE: 30/04/24
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
